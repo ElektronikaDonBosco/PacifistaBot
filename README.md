@@ -19,6 +19,7 @@ Robot hau, jatorriz, Bluetooth bidez diseinatu zen, baina, garapenekin, wifi bid
 - Programazioa: [Arduino IDE](https://www.arduino.cc/en/software)
 - Komunikazioa: [Arduino IDE](https://www.arduino.cc/)
 - APP Androind: [Bluetooth Elektronics](https://www.keuwl.com/apps/bluetoothelectronics/)
+         - [App-robot](https://drive.google.com/file/d/16pC5VKVdatjsB8bM0U4XMGPYy6Go_khR/view?usp=sharing)
 
 
 
